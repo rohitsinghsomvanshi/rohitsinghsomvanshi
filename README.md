@@ -71,16 +71,10 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=160&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=30" />
-</div>
-
 ## 🔥GitHub Streak
 
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=rohitsinghsomvanshi)
+<img src="https://streak-stats.demolab.com?user=rohitsinghsomvanshi&theme=dark"/>
 </p>
 
 ##📊 GitHub Activity Graph
@@ -91,10 +85,22 @@
 
 ##👁️👁️ GitHub Profile Views
 <p align="center">
-![](https://komarev.com/ghpvc/?username=rohitsinghsomvanshi&label=Profile%20Views)
+<img src="https://komarev.com/ghpvc/?username=rohitsinghsomvanshi&label=Profile%20Views"/>
+</p>
+## 💻 Most Used Language
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghsomvanshi&layout=compact"/>
 </p>
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitsinghsomvanshi&theme=algolia&row=2&column=4" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=160&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=30" />
+</div>
 --- 
 
 📌 *Learning. Building. Improving. One commit at a time.*
