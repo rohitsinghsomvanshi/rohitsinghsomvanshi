@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;" />
 </div>
 <div align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006ff472088d81950969d04182&ts=494466&p=fs&cid=1&sig=f3d58862df3ef3ae8b465c437158611d39e968242b3dcdec0416091a66d64107&v=0)" width="400" />
+  <img src="https://github.com/rohitsinghsomvanshi/rohitsinghsomvanshi/blob/main/65a45735-c366-47ef-8fbb-57ce42ddff36.png?raw=true" width="100%" />
 </div>
 
 ---
