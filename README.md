@@ -86,7 +86,7 @@
 ##📊 GitHub Activity Graph
 
 <p align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghsomvanshi)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghsomvanshi&theme=github-dark"/>
 </p>
 
 ##👁️👁️ GitHub Profile Views
