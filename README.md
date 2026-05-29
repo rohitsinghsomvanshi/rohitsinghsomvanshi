@@ -77,19 +77,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=160&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=30" />
 </div>
 
-## 🟡 Contribution Graph
+## 🔥GitHub Streak
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/abhinandanmaurya10-art/abhinandanmaurya10-art/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/abhinandanmaurya10-art/abhinandanmaurya10-art/output/pacman-contribution-graph.svg" />
-    <img alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/abhinandanmaurya10-art/abhinandanmaurya10-art/output/pacman-contribution-graph.svg" />
-  </picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=rohitsinghsomvanshi)
 </p>
 
+##📊 GitHub Activity Graph
+
+<p align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghsomvanshi)
+</p>
+
+##👁️👁️ GitHub Profile Views
+<p align="center">
+![](https://komarev.com/ghpvc/?username=rohitsinghsomvanshi&label=Profile%20Views)
+</p>
 
 
 --- 
