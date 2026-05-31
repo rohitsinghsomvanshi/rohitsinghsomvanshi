@@ -76,12 +76,15 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rohitsinghsomvanshi&theme=dark"/>
 </p>
-##📊 GitHub Activity Graph
+
+## 📊GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsinghsomvanshi&theme=github-dark"/>
 </p>
-##👁️👁️ GitHub Profile Views
+
+## 👁️👁️GitHub Profile Views
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rohitsinghsomvanshi&label=Profile%20Views"/>
 </p>
