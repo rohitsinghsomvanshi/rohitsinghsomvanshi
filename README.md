@@ -89,6 +89,11 @@
 <img src="https://komarev.com/ghpvc/?username=rohitsinghsomvanshi&label=Profile%20Views"/>
 </p>
 
+## Top language
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghsomvanshi&layout=compact"/>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=160&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=30" />
 </div>
