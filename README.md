@@ -75,6 +75,7 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rohitsinghsomvanshi&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohitsinghsomvanshi&show_icons=true&theme=tokyonight"/>
 </p>
 
 ## 📊GitHub Activity Graph
