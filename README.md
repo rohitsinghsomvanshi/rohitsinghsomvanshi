@@ -75,7 +75,7 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rohitsinghsomvanshi&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghsomvanshi&layout=compact&cache_seconds=1800/>
+
 </p>
 
 ## 📊GitHub Activity Graph
@@ -93,6 +93,7 @@
 ## Top language
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghsomvanshi&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghsomvanshi&layout=compact&cache_seconds=1800/>
 </p>
 
 <div align="center">
