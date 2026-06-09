@@ -92,8 +92,11 @@
 
 ## Top language
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghsomvanshi&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsinghsomvanshi&layout=compact&cache_seconds=1800"/>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitsinghsomvanshi&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitsinghsomvanshi&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitsinghsomvanshi&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitsinghsomvanshi&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghsomvanshi&theme=transparent" height="180em" alt="Commitments"/>
 </p>
 
 <div align="center">
