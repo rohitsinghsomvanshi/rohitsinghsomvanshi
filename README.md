@@ -74,7 +74,7 @@
 ## 🔥GitHub Streak 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohitsinghsomvanshi&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rohitsinghsomvanshi&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 </p>
 
 ## 📊GitHub Activity Graph
@@ -91,16 +91,22 @@
 
 ## Top language
 <p align="center">
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitsinghsomvanshi&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitsinghsomvanshi&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitsinghsomvanshi&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitsinghsomvanshi&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghsomvanshi&theme=transparent" height="180em" alt="Commitments"/>
-</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=160&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=30" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsinghsomvanshi&theme=github_dark"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitsinghsomvanshi&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitsinghsomvanshi&theme=github_dark"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitsinghsomvanshi&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitsinghsomvanshi&theme=github_dark&utcOffset=5.5"/>
+
+</p>
 --- 
 
 📌 *Learning. Building. Improving. One commit at a time.*
