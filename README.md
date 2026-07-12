@@ -74,7 +74,7 @@
 ## 🔥GitHub Streak 
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rohitsinghsomvanshi&theme=dark"/>
+<img src="https://streak-stats.demolab.com/?user=rohitsinghsomvanshi&theme=dark"/>
 
 </p>
 
