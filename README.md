@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I am Rohit Singh</h1>
 <h3 align="center"> 🎓 MCA Student || Aspiring Data Analyst 🚀</h3>
-<h4 align="center"> 📉 Learning SQL ,Power BI , Python </h4>
+<h4 align="center"> 📉 Learning SQL ,Power BI , Python </h4> 
 <h4 align="center"> 📊Passionate about Data Visualization </h4>
 <h4 align="center"> 💡Interested in Business Analytics & Dashboard Development</h4>
 
